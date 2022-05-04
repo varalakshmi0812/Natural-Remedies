@@ -1,1 +1,1 @@
-# Natural-Remedies
+It is a Informatic Web site where people can find solutions to their basic problems like fever , cold , headache , cough etc (Applicable for initial stages ). How this website is different from others is , here we provide remedies through ingredients which are readily available in our kitchen !!
